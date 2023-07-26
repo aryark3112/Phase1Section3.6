@@ -1,0 +1,8 @@
+D:\26July\Phase1Section3.6\Phase1Section3.6\bin\Debug\Phase1Section3.6.exe.config
+D:\26July\Phase1Section3.6\Phase1Section3.6\bin\Debug\Phase1Section3.6.exe
+D:\26July\Phase1Section3.6\Phase1Section3.6\bin\Debug\Phase1Section3.6.pdb
+D:\26July\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.csproj.AssemblyReference.cache
+D:\26July\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.csproj.SuggestedBindingRedirects.cache
+D:\26July\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.csproj.CoreCompileInputs.cache
+D:\26July\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.exe
+D:\26July\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.pdb
